@@ -35,7 +35,7 @@ You can check the website live at [here](https://shopify-silk.vercel.app/).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AyishikD/shopify.git
+   git clone https://github.com/touridev/shopify.git
 2. Add an `.env` file with the following environment variables:
 
    ```plaintext
